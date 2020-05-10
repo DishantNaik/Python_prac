@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Mar  3 01:27:48 2020
-
+Difficulty Level: Easy
 @author: iCule10
 """
 def run(lis):

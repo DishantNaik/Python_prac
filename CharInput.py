@@ -1,5 +1,6 @@
 """ 
-    A scripts that returns a year when user will turn 100
+    Provlem description: A scripts that returns a year when user will turn 100
+    Difficulty Level: Easy
     @author: iCule10 
 """
 from datetime import date
